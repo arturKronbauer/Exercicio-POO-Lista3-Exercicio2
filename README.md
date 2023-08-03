@@ -1,4 +1,4 @@
-# Exercicios-LPII-Lista2-Exercicio1
+# Exercicio-POO-Lista3-Exercicio2
 
 Fazer um programa para ler os dados de N produtos (N fornecido pelo usuário). Ao final, mostrar a etiqueta de preço de cada produto na mesma ordem em que foram digitados.
 
